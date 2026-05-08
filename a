@@ -1,0 +1,7 @@
+shivamchaturvedi@Shivams-MacBook-Air Neev-Ventures % git remote -v
+origin  https://github.com/shivam-chaturvedi/neev-ventures-our-story.git (fetch)
+origin  https://github.com/shivam-chaturvedi/neev-ventures-our-story.git (push)
+s       https://github.com/shivam-chaturvedi/hello-world-connect (fetch)
+s       https://github.com/shivam-chaturvedi/hello-world-connect (push)
+shivamchaturvedi@Shivams-MacBook-Air Neev-Ventures % git remote remove origin
+shivamchaturvedi@Shivams-MacBook-Air Neev-Ventures % git remote add origin https://github.com/shyam123-pro/hello-world-app.git
